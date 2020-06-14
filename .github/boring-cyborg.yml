@@ -9,59 +9,59 @@ labelPRBasedOnFilePath:
     - Dockerfile*
     - .docker/**/*
   "Image 🖼":
-    - *.gif
-    - **/*.gif
-    - *.jpg
-    - **/*.jpg
-    - *.jpeg
-    - **/*.jpeg
-    - *.png
-    - **/*.png
-    - *.webp
-    - **/*.webp
+    - "*.gif"
+    - "**/*.gif"
+    - "*.jpg"
+    - "**/*.jpg"
+    - "*.jpeg"
+    - "**/*.jpeg"
+    - "*.png"
+    - "**/*.png"
+    - "*.webp"
+    - "**/*.webp"
   "CSS 👩‍🎨":
-    - *.css
-    - **/*.css
+    - "*.css"
+    - "**/*.css"
   "HTML 👷‍♀️":
-    - *.htm
-    - **/*.htm
-    - *.html
-    - **/*.html
+    - "*.htm"
+    - "**/*.htm"
+    - "*.html"
+    - "**/*.html"
   "NEON 🦹‍♂️":
-    - *.neon
-    - **/*.neon
+    - "*.neon"
+    - "**/*.neon"
   "MarkDown 📝":
-    - /**/*.md
+    - "/**/*.md"
   "YAML 🍄":
-    - *.yml
-    - **/*.yml
-    - *.yaml
-    - **/*.yaml
+    - "*.yml"
+    - "**/*.yml"
+    - "*.yaml"
+    - "**/*.yaml"
   "JSON 👨‍💼":
-    - *.json
-    - **/*.json
+    - "*.json"
+    - "**/*.json"
   "Go 🐹":
-    - *.go
-    - **/*.go
+    - "*.go"
+    - "**/*.go"
   "JavaScript 🦏":
-    - *.js
-    - **/*.js
+    - "*.js"
+    - "**/*.js"
     - package.json
     - package-lock.json
     - yarn.lock
   "PHP 🐘":
-    - *.php
-    - **/*.php
+    - "*.php"
+    - "**/*.php"
     - composer.*
   "Configuration ⚙":
     - .github/*
   "CI 🚧":
     - .github/workflows/*
   "Templates 🌲":
-    - *.twig
-    - **/*.twig
-    - *.tpl
-    - **/*.tpl
+    - "*.twig"
+    - "**/*.twig"
+    - "*.tpl"
+    - "**/*.tpl"
   "Helm ☸":
     - .helm/**/*
   "Tests 🧪":
