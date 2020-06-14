@@ -70,4 +70,4 @@ labelPRBasedOnFilePath:
     - src/**/*
 
 labelerFlags:
-    labelOnPRUpdates: true
+  labelOnPRUpdates: true
