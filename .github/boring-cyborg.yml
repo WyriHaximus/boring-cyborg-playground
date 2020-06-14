@@ -31,8 +31,7 @@ labelPRBasedOnFilePath:
     - *.neon
     - **/*.neon
   "MarkDown 📝":
-    - *.md
-    - **/*.md
+    - /**/*.md
   "YAML 🍄":
     - *.yml
     - **/*.yml
